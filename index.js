@@ -1,4 +1,3 @@
-//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
 import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
